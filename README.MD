@@ -1,9 +1,9 @@
-PROJETO - Jogo estourando Balões (Burst Ballon)
+<h1>PROJETO - Jogo estourando Balões (Burst Ballon)</h1>
 
 - O objetivo do projeto é criar um jogo para estourar balões, usando HTML, CSS e Javascript.
 - O Jogo terá uma área na tela onde os balões vão  surgir de forma aleatória e conforme clicamos com o mouse em cada balão o mesmo some da tela.
 
-Etapas funcionalidades:
+<h2>Etapas funcionalidades:</h2>
 
 - Definir layout e cores, precisa ser responsivo.
 
@@ -18,5 +18,5 @@ Etapas funcionalidades:
 - E informar o score para o jogador em porcentagem e informar o status se o jogo foi ganho ou perdido.
 
 
-A idéia é começar de forma simples e ir avançando com melhorias.
+<strong>A idéia é começar de forma simples e ir avançando com melhorias.</strong>
 
