@@ -13,7 +13,7 @@
 
 - Definir um número total de balões e definir em porcentagem quantos balões o jogador conseguiu estourar.
 
-- definir um temo para concluir a missão.
+- definir um tempo para concluir a missão.
 
 - E informar o score para o jogador em porcentagem e informar o status se o jogo foi ganho ou perdido.
 
