@@ -1,0 +1,19 @@
+.balao{
+    width:50px;
+    height:50px;
+    background-color:#000000;
+    border-radius:25px;
+    position:absolute;
+}
+.area{
+    width:1000px;
+    height:590px;
+    border:10px solid #000;
+    margin:auto;
+    margin-top:20px;
+    background-color: yellow;
+}
+.titulo{
+    text-align: center;
+    text-decoration:underline;
+}
