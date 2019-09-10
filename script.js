@@ -6,7 +6,7 @@ function addBalao() {
     balao.setAttribute("style", "left:"+p1+"px;top:"+p2+"px;");
     balao.setAttribute("onclick", "estourar(this)");
     
-    document.body.appendChild(balao);
+    document.getElementsByClassName(balao);
 }
 function estourar(elemento) {
     document.body.removeChild(elemento);

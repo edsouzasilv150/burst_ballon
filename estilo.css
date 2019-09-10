@@ -6,14 +6,15 @@
     position:absolute;
 }
 .area{
-    width:1000px;
-    height:590px;
+    width:1320px;
+    height:615px;
     border:10px solid #000;
     margin:auto;
-    margin-top:20px;
+    margin-top:10px;
     background-color: yellow;
 }
 .titulo{
+    margin-top:10px;
     text-align: center;
     text-decoration:underline;
 }
