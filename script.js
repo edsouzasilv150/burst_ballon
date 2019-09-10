@@ -11,3 +11,6 @@ function addBalao() {
 function estourar(elemento) {
     document.body.removeChild(elemento);
 }
+function iniciar() {
+    setInterval(addBalao, 1500);
+}
