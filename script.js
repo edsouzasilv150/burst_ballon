@@ -6,11 +6,11 @@ function addBalao() {
     balao.setAttribute("style", "left:"+p1+"px;top:"+p2+"px;");
     balao.setAttribute("onclick", "estourar(this)");
     
-    document.body.appendChild(balao);
+    document.getElementById("area").appendChild(balao);
 }
 function estourar(elemento) {
-    document.body.removeChild(elemento);
+    document.getElementById("area").removeChild(elemento);
 }
 function iniciar() {
-    setInterval(addBalao, 1500);
+    setInterval(addBalao, 800);
 }
