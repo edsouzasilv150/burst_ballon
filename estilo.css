@@ -1,29 +1,39 @@
+@keyframes balao{
+    0% {background-color:#ff0000;}
+    25% {background-color:#000000;}
+    50% {background-color:#0000ff;}
+    75% {background-color:#00cc00;}
+    100% {background-color:#ffff00;}
+}
 .balao{
     width:50px;
     height:50px;
-    background-color:#000000;
     border-radius:25px;
     position:absolute;
+    background-color: #ff0000;
     margin-top:120px;
-    margin-left:500px;
+    margin-left:250px;
     margin-bottom:30px;
+    animation-name:balao;
+    animation-duration:9s;
 }
 #area{
-    width:1320px;
-    height:615px;
-    border:10px solid #000;
+    width:1250px;
+    height:580px;
+    border:18px solid #e60000;
     margin:auto;
     margin-top:10px;
     margin-right:30px;
     margin-left:30px;
     margin-bottom:30px;
-    background-color: yellow;
+    background-color:#ffc2b3;
 }
 .titulo{
     margin-top:10px;
+    color: white;
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 hr{
-    border: 0.5px solid #000;
+    border: 0.2px solid #ff9999;
 }
