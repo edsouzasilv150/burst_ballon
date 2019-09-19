@@ -12,5 +12,5 @@ function estourar(elemento) {
     document.getElementById("area").removeChild(elemento);
 }
 function iniciar() {
-    setInterval(addBalao, 800);
+    setInterval(addBalao, 1000);
 }
